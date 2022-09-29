@@ -26,8 +26,8 @@ From Albert Einstein:
 ### Shopping List
 - [x] Oat milk
 - [x] Blueberry
-- [] Matcha
-- [] Vanilla ice cream
+- [ ] Matcha
+- [ ] Vanilla ice cream
 
 ### To Drink and to Eat
 - Milk Tea
@@ -51,3 +51,7 @@ From Albert Einstein:
   3. ...
 
 Feeling boring seeing my plans? Jump back to the [Interesting Stuff](#interesting-stuff).
+
+<br>
+<hr>
+Have a nice day! 🥰
