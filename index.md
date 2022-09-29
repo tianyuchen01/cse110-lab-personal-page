@@ -5,6 +5,8 @@
 ## Introduction
 I'm a third-year undergraduate student at the [University of California, San Diego](https://ucsd.edu/), majoring in Computer Science. Always growing, always learning, always curious, and always humble. Care about details and create for people.
 
+<br>
+
 ## Interesting Stuff
 Have some fun here! ~~Will or will not update in the future.~~
 
@@ -20,6 +22,8 @@ System.out.println("Hello, world!");
 ### Quote of the Day
 From Albert Einstein:
 >I love to travel, but hate to arrive.
+
+<br>
 
 ## Plans
 
